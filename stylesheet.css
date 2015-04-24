@@ -1,0 +1,60 @@
+* {
+	font-family: Cambria, Calibri, Sans-serif;
+
+}
+
+div {
+	height: 50px;
+	width: 120px;
+	background-color: #6c7fa1;
+	margin: auto;
+    text-align: center;
+    border-radius: 5px; 
+}
+
+h1 {
+	text-align: center;
+}
+
+body {
+	background-image: url("http://thebeautifultentcompany.co.uk/The_Beautiful_Tent_Company/Transport_files/light%20grey%20floral%20background_1.jpg");
+	background-attachment: fixed;
+
+
+}
+
+img {
+	height: 200px;
+	width: 250px;
+	opacity: 0.8;
+	border-radius: 40px;
+	margin: auto;
+
+}
+
+table, td {
+	border: 5px solid black;
+
+}
+
+table {
+	margin: auto;
+}
+
+th {
+	font-size: 25px;
+}
+
+h3 {
+	text-align: center;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+a {
+	color:black;
+	text-decoration: none;
+}
